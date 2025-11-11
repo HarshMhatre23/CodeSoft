@@ -1,2 +1,2 @@
 # CodeSoft
- Tasks are my Internship period in Codesoft
+ Tasks are my Internship period in Codsoft
